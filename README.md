@@ -1,9 +1,10 @@
 # 👋 Oi, sou Miqueias Rocha :rocket:
 
-<a href="https://acesse.one/contatomiqueias">
+<h1>Converse comigo nas redes sociais</h1>
+<a href="https://wa.me/94992713774">
   <img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" width="40px"/>
 </a>
-<a href="https://acesse.one/instamiqueias">
+<a href="https://www.instagram.com/miqueias_srocha">
   <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40px"/>
 </a>
 
@@ -28,8 +29,9 @@ Adoro trabalhar com as seguintes tecnologias:
 ---
 
 ### 🔗 Contato
-- [Contate-me](https://acesse.one/contatomiqueias)
-- [Instagram](https://acesse.one/instamiqueias)
+- [Contate-me](https://wa.me/94992713774)
+- [Instagram](https://www.instagram.com/miqueias_srocha
+)
 
 ---
 
